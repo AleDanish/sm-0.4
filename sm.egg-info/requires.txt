@@ -1,0 +1,12 @@
+pyssf
+requests
+mako
+retrying
+tornado
+graypy
+debtcollector
+monotonic
+pycrypto
+ecdsa
+jsonpickle
+pymongo
